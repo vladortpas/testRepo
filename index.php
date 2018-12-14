@@ -6,7 +6,13 @@
 <body>
 test
 
+
 test2
 
+
+
+<?php foreach ($variable as $key => $value): ?>
+	
+<?php endforeach ?>
 </body>
 </html>
